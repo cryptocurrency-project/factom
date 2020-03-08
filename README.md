@@ -10,7 +10,7 @@
 [factom walletd API](https://docs.factomprotocol.org/start/factom-api-docs/factom-walletd-api)  
 [factom enterprise wallet API](https://docs.factom.com/#welcome)
 
-## Bitcoin Explorer
+## Factom Explorer
 [factom.com](https://explorer.factom.com/dblocks)
 
 ## Build method

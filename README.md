@@ -1,13 +1,13 @@
 ## Factom Formula
-[FactomProject/factomd](https://github.com/FactomProject/factomd)
-[FactomProject/factom-cli](https://github.com/FactomProject/factom-cli)
-[FactomProject/factom-walletd](https://github.com/FactomProject/factom-walletd)
+[FactomProject/factomd](https://github.com/FactomProject/factomd)  
+[FactomProject/factom-cli](https://github.com/FactomProject/factom-cli)  
+[FactomProject/factom-walletd](https://github.com/FactomProject/factom-walletd)  
 [FactomProject/enterprise-wallet](https://github.com/FactomProject/enterprise-wallet)
 
 ## Factom API
-[factomd API](https://docs.factom.com/api#introduction)
-[factom cli API](https://docs.factom.com/cli#introduction)
-[factom walletd API](https://docs.factomprotocol.org/start/factom-api-docs/factom-walletd-api)
+[factomd API](https://docs.factom.com/api#introduction)  
+[factom cli API](https://docs.factom.com/cli#introduction)  
+[factom walletd API](https://docs.factomprotocol.org/start/factom-api-docs/factom-walletd-api)  
 [factom enterprise wallet API](https://docs.factom.com/#welcome)
 
 ## Bitcoin Explorer

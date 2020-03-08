@@ -1,5 +1,5 @@
 ## Golang
-[Go](https://golang.org/dl/)
+[Go core](https://golang.org/dl/)
 
 ## Factom Formula
 [FactomProject/factomd](https://github.com/FactomProject/factomd)  
@@ -19,5 +19,5 @@
 ## Build method
 docker build --build-arg GOLANG_VERSION=1.13.8 -t fct-core:v6.6.0 -f Dockerfile .
 
-## reference
+## Reference
 [VM上のubuntuでfactomを起動する](https://qiita.com/toru0408/items/2b8a00558faf7cc84bee)
